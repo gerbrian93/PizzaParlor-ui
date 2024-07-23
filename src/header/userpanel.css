@@ -1,0 +1,41 @@
+.user-panel-container {
+    height: 60px;
+    width: 140px;
+    position: absolute;
+    left: 92%;
+    display: inline-flex;
+}
+
+.login-msg {
+    white-space: nowrap;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    right:67%;
+    top: 50%;
+}
+
+.portrait {
+    height: 50px;
+    position: absolute;
+    left: 0;
+    border-radius:50%;
+    bottom: 30%;
+} 
+
+.menu-button {
+    height: 60px;
+    width: 50px;
+    position: absolute;
+    right: 10%;
+    bottom: 5;
+    
+    background-color: #AA4A43;
+    
+}
+
+.menu-button p {
+    font-size: 20px;
+    color: black;
+}

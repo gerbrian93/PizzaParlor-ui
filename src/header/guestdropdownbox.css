@@ -1,0 +1,20 @@
+.dropdown-box {
+    color: black;
+    height:350px;
+    width: 300px;
+    background-color: #AA4A43;
+    position: absolute;
+    right: 1%;
+    top: 99.9%;
+    box-shadow: 1px 5px 5px #4d1515da 
+}
+
+.dropdown-box p {
+    font-family:cursive;
+    list-style-type: none;
+}
+
+.dropdown-box p:hover {
+    background-color: #AA5b4a;
+}
+

@@ -1,0 +1,9 @@
+.page-container {
+    background-color: rgb(240, 230, 230);
+    color:black;
+    width:90%;
+    position: relative;
+    height: 100vh;
+    margin-top:6%;
+    border-radius: 2%;
+}
